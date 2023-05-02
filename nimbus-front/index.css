@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;700&family=Dancing+Script&display=swap');
+
+.inicio-login-cadastro {
+  padding-left: 65%;
+  margin-bottom: 2%;
+}
+
+.cadastro {
+  background-color: #381a8c;
+  color: white;
+  margin-left: 4%;
+}
+
+.space {
+  background-color: #381a8c;
+  position: absolute;
+  width: calc(80vw + 60px);
+  height: calc(80vh + 60px);
+  left: 10%;
+  border-radius: 102px;
+  z-index: -2;
+}
+
+.space-2 {
+  background-color: #edb33f;
+  position: relative;
+  width: calc(10vw + 60px);
+  height: calc(10vh + 60px);
+  top: -50%;
+  left: 10%;
+  z-index: -1;
+}
+
+.inicio-bv {
+  padding-left: 20%;
+  padding-top: 20px;
+}
+
+.titulo-bv-1 {
+  font-family: 'Inter', sans-serif;
+  font-size: 76px;
+  font-style: italic;
+  font-weight: 500;
+  line-height: 92px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: white;
+}
+
+.titulo-bv-2 {
+  font-family: 'Inter', sans-serif;
+  font-size: 76px;
+  font-style: italic;
+  font-weight: 900;
+  line-height: 92px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: white;
+}
+
+.titulo-bv-3 {
+  font-family: 'Inter', sans-serif;
+  font-size: 76px;
+  font-style: italic;
+  font-weight: 700;
+  line-height: 92px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: white;
+}
+
+.inicio-bv-2 {
+  padding-left: 50%;
+  padding-top: -30%;
+}
